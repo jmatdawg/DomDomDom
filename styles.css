@@ -1,0 +1,23 @@
+
+.box{
+    background-color: black;
+    height: 8em;
+    width: 8em;
+    margin: 1em;
+    display: inline-block;
+}
+
+.button {
+    display: block;
+}
+
+.box:hover {
+background-color: aliceblue;
+color: black;
+}
+
+.text{
+  text-align: center;
+
+}
+    
