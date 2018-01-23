@@ -3,8 +3,10 @@
     background-color: black;
     height: 8em;
     width: 8em;
-    margin: 1em;
     display: inline-block;
+    text-align: center;
+    line-height: 8em;
+    margin: 1em;
 }
 
 .button {
@@ -15,9 +17,3 @@
 background-color: aliceblue;
 color: black;
 }
-
-.text{
-  text-align: center;
-
-}
-    
